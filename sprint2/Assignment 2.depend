@@ -1,0 +1,723 @@
+# depslib dependency file v1.0
+1514140574 source:d:\programming\last ass2\main.cpp
+	<iostream>
+
+1574676282 source:d:\programming\last ass2\user.cpp
+	<iostream>
+	"User.h"
+
+1574676282 d:\programming\last ass2\user.h
+
+1574676960 source:d:\programming\last ass2\player.cpp
+	"Player.h"
+
+1574676886 d:\programming\last ass2\player.h
+	<iostream>
+	"User.h"
+
+1574777299 source:c:\users\manaz\desktop\last ass2\main.cpp
+	<iostream>
+	"User.h"
+	"Player.h"
+	"Admin.h"
+	"Question.h"
+	"MCQ.h"
+	"TFQ.h"
+	"CQ.h"
+	<cstring>
+	<vector>
+	<fstream>
+
+1574676886 c:\users\manaz\desktop\last ass2\player.h
+	<iostream>
+	"User.h"
+
+1574688454 c:\users\manaz\desktop\last ass2\user.h
+	<iostream>
+
+1574689600 c:\users\manaz\desktop\last ass2\admin.h
+	<iostream>
+	"User.h"
+
+1574761500 source:c:\users\manaz\desktop\last ass2\user.cpp
+	"User.h"
+
+1574762934 source:c:\users\manaz\desktop\last ass2\player.cpp
+	"Player.h"
+
+1574762934 source:c:\users\manaz\desktop\last ass2\admin.cpp
+	"Admin.h"
+
+1574774804 source:c:\users\manaz\desktop\last ass2\cq.cpp
+	"CQ.h"
+
+1574775431 c:\users\manaz\desktop\last ass2\cq.h
+	<iostream>
+	"Question.h"
+
+1574777713 c:\users\manaz\desktop\last ass2\question.h
+
+1574777811 c:\users\manaz\desktop\last ass2\mcq.h
+	<iostream>
+	"Question.h"
+
+1574774778 c:\users\manaz\desktop\last ass2\tfq.h
+	<iostream>
+	"Question.h"
+
+1574776653 source:c:\users\manaz\desktop\last ass2\mcq.cpp
+	"MCQ.h"
+
+1574775432 source:c:\users\manaz\desktop\last ass2\question.cpp
+	"Question.h"
+
+1574775442 source:c:\users\manaz\desktop\last ass2\tfq.cpp
+	"TFQ.h"
+
+1574762936 source:c:\users\zezoa\desktop\last ass2\admin.cpp
+	"Admin.h"
+
+1574689602 c:\users\zezoa\desktop\last ass2\admin.h
+	<iostream>
+	"User.h"
+
+1574688456 c:\users\zezoa\desktop\last ass2\user.h
+	<iostream>
+
+1574796354 source:c:\users\zezoa\desktop\last ass2\cq.cpp
+	"CQ.h"
+
+1574796354 c:\users\zezoa\desktop\last ass2\cq.h
+	<iostream>
+	"Question.h"
+
+1574793593 c:\users\zezoa\desktop\last ass2\question.h
+	<iostream>
+
+1574797532 source:c:\users\zezoa\desktop\last ass2\main.cpp
+	<iostream>
+	"User.h"
+	"Player.h"
+	"Admin.h"
+	"Question.h"
+	"MCQ.h"
+	"TFQ.h"
+	"CQ.h"
+	<cstring>
+	<vector>
+	<fstream>
+
+1574676888 c:\users\zezoa\desktop\last ass2\player.h
+	<iostream>
+	"User.h"
+
+1574793450 c:\users\zezoa\desktop\last ass2\mcq.h
+	<iostream>
+	"Question.h"
+
+1574794789 c:\users\zezoa\desktop\last ass2\tfq.h
+	<iostream>
+	"Question.h"
+
+1574794061 source:c:\users\zezoa\desktop\last ass2\mcq.cpp
+	"MCQ.h"
+
+1574762936 source:c:\users\zezoa\desktop\last ass2\player.cpp
+	"Player.h"
+
+1574792834 source:c:\users\zezoa\desktop\last ass2\question.cpp
+	"Question.h"
+
+1574794964 source:c:\users\zezoa\desktop\last ass2\tfq.cpp
+	"TFQ.h"
+
+1574761502 source:c:\users\zezoa\desktop\last ass2\user.cpp
+	"User.h"
+
+1574762936 source:c:\users\manaz\desktop\last\admin.cpp
+	"Admin.h"
+
+1574689602 c:\users\manaz\desktop\last\admin.h
+	<iostream>
+	"User.h"
+
+1574688456 c:\users\manaz\desktop\last\user.h
+	<iostream>
+
+1574808193 source:c:\users\manaz\desktop\last\cq.cpp
+	"CQ.h"
+
+1574808193 c:\users\manaz\desktop\last\cq.h
+	<iostream>
+	"Question.h"
+
+1574859341 c:\users\manaz\desktop\last\question.h
+	<iostream>
+
+1574860798 source:c:\users\manaz\desktop\last\mcq.cpp
+	"MCQ.h"
+
+1574807667 c:\users\manaz\desktop\last\mcq.h
+	<iostream>
+	"Question.h"
+
+1574762936 source:c:\users\manaz\desktop\last\player.cpp
+	"Player.h"
+
+1574676888 c:\users\manaz\desktop\last\player.h
+	<iostream>
+	"User.h"
+
+1574859341 source:c:\users\manaz\desktop\last\question.cpp
+	"Question.h"
+
+1574808193 source:c:\users\manaz\desktop\last\tfq.cpp
+	"TFQ.h"
+
+1574808193 c:\users\manaz\desktop\last\tfq.h
+	<iostream>
+	"Question.h"
+
+1574761502 source:c:\users\manaz\desktop\last\user.cpp
+	"User.h"
+
+1574860256 source:c:\users\manaz\desktop\last\main.cpp
+	<iostream>
+	"User.h"
+	"Player.h"
+	"Admin.h"
+	"Question.h"
+	"MCQ.h"
+	"TFQ.h"
+	"CQ.h"
+	<cstring>
+	<vector>
+	<fstream>
+
+1574762936 source:c:\users\zezoa\desktop\last\admin.cpp
+	"Admin.h"
+
+1574689602 c:\users\zezoa\desktop\last\admin.h
+	<iostream>
+	"User.h"
+
+1574688456 c:\users\zezoa\desktop\last\user.h
+	<iostream>
+
+1575044047 source:c:\users\zezoa\desktop\last\cq.cpp
+	"CQ.h"
+
+1575042906 c:\users\zezoa\desktop\last\cq.h
+	<iostream>
+	"Question.h"
+
+1575044047 c:\users\zezoa\desktop\last\question.h
+	<iostream>
+
+1575047722 source:c:\users\zezoa\desktop\last\mcq.cpp
+	"MCQ.h"
+
+1575047722 c:\users\zezoa\desktop\last\mcq.h
+	<iostream>
+	"Question.h"
+
+1574762936 source:c:\users\zezoa\desktop\last\player.cpp
+	"Player.h"
+
+1574676888 c:\users\zezoa\desktop\last\player.h
+	<iostream>
+	"User.h"
+
+1575044047 source:c:\users\zezoa\desktop\last\question.cpp
+	"Question.h"
+
+1575044047 source:c:\users\zezoa\desktop\last\tfq.cpp
+	"TFQ.h"
+
+1575042907 c:\users\zezoa\desktop\last\tfq.h
+	<iostream>
+	"Question.h"
+
+1574761502 source:c:\users\zezoa\desktop\last\user.cpp
+	"User.h"
+
+1575044047 source:c:\users\zezoa\desktop\last\quiz.cpp
+	"Quiz.h"
+
+1575044047 c:\users\zezoa\desktop\last\quiz.h
+	"Question.h"
+	<iostream>
+
+1575044047 source:c:\users\zezoa\desktop\last\main.cpp
+	<iostream>
+	"User.h"
+	"Player.h"
+	"Admin.h"
+	"Question.h"
+	"MCQ.h"
+	"TFQ.h"
+	"CQ.h"
+	"Quiz.h"
+	<cstring>
+	<vector>
+	<fstream>
+	<cstdlib>
+	<ctime>
+
+1574762936 source:c:\users\manaz\desktop\last(1)\last\admin.cpp
+	"Admin.h"
+
+1574689602 c:\users\manaz\desktop\last(1)\last\admin.h
+	<iostream>
+	"User.h"
+
+1574688456 c:\users\manaz\desktop\last(1)\last\user.h
+	<iostream>
+
+1575127034 source:c:\users\manaz\desktop\last(1)\last\cq.cpp
+	"CQ.h"
+
+1575127034 c:\users\manaz\desktop\last(1)\last\cq.h
+	<iostream>
+	"Question.h"
+
+1575125494 c:\users\manaz\desktop\last(1)\last\question.h
+	<iostream>
+
+1575125494 source:c:\users\manaz\desktop\last(1)\last\main.cpp
+	<iostream>
+	"User.h"
+	"Player.h"
+	"Admin.h"
+	"Question.h"
+	"MCQ.h"
+	"TFQ.h"
+	"CQ.h"
+	"Quiz.h"
+	<cstring>
+	<vector>
+	<fstream>
+	<cstdlib>
+	<ctime>
+
+1575125494 c:\users\manaz\desktop\last(1)\last\player.h
+	<vector>
+	<iostream>
+	"User.h"
+	"Quiz.h"
+
+1575125494 c:\users\manaz\desktop\last(1)\last\mcq.h
+	<iostream>
+	"Question.h"
+
+1575127034 c:\users\manaz\desktop\last(1)\last\tfq.h
+	<iostream>
+	"Question.h"
+
+1575125494 c:\users\manaz\desktop\last(1)\last\quiz.h
+	"Question.h"
+	<iostream>
+
+1575127034 source:c:\users\manaz\desktop\last(1)\last\player.cpp
+	"Player.h"
+
+1575125494 source:c:\users\manaz\desktop\last(1)\last\question.cpp
+	"Question.h"
+
+1575127034 source:c:\users\manaz\desktop\last(1)\last\quiz.cpp
+	"Quiz.h"
+
+1575127034 source:c:\users\manaz\desktop\last(1)\last\tfq.cpp
+	"TFQ.h"
+
+1574761502 source:c:\users\manaz\desktop\last(1)\last\user.cpp
+	"User.h"
+
+1575126341 source:c:\users\manaz\desktop\last(1)\last\mcq.cpp
+	"MCQ.h"
+
+1575180828 source:c:\users\salsabil\onedrive\desktop\new folder\admin.cpp
+	"Admin.h"
+
+1575180828 c:\users\salsabil\onedrive\desktop\new folder\admin.h
+	<iostream>
+	"User.h"
+
+1575180827 c:\users\salsabil\onedrive\desktop\new folder\user.h
+	<iostream>
+	<iomanip>
+
+1575163036 source:c:\users\salsabil\onedrive\desktop\new folder\cq.cpp
+	"CQ.h"
+
+1575182834 c:\users\salsabil\onedrive\desktop\new folder\cq.h
+	<iostream>
+	"Question.h"
+	<iomanip>
+
+1575182748 c:\users\salsabil\onedrive\desktop\new folder\question.h
+	<iostream>
+
+1575182748 source:c:\users\salsabil\onedrive\desktop\new folder\mcq.cpp
+	"MCQ.h"
+
+1575182776 c:\users\salsabil\onedrive\desktop\new folder\mcq.h
+	"Question.h"
+	<iostream>
+	<iomanip>
+
+1575180828 source:c:\users\salsabil\onedrive\desktop\new folder\player.cpp
+	"Player.h"
+
+1575180828 c:\users\salsabil\onedrive\desktop\new folder\player.h
+	"User.h"
+	"Quiz.h"
+	<vector>
+	<iostream>
+
+1575182560 c:\users\salsabil\onedrive\desktop\new folder\quiz.h
+	"Question.h"
+	<iostream>
+
+1575161496 source:c:\users\salsabil\onedrive\desktop\new folder\question.cpp
+	"Question.h"
+
+1575163036 source:c:\users\salsabil\onedrive\desktop\new folder\quiz.cpp
+	"Quiz.h"
+
+1575176389 source:c:\users\salsabil\onedrive\desktop\new folder\tfq.cpp
+	"TFQ.h"
+
+1575182834 c:\users\salsabil\onedrive\desktop\new folder\tfq.h
+	"Question.h"
+	<iostream>
+	<iomanip>
+
+1575180827 source:c:\users\salsabil\onedrive\desktop\new folder\main.cpp
+	<iostream>
+	"User.h"
+	"Player.h"
+	"Admin.h"
+	"Question.h"
+	"MCQ.h"
+	"TFQ.h"
+	"CQ.h"
+	"Quiz.h"
+	<cstring>
+	<vector>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+
+1575174605 source:c:\users\salsabil\onedrive\desktop\new folder\user.cpp
+	"User.h"
+
+1575180828 source:c:\users\zezoa\desktop\new folder\new folder\admin.cpp
+	"Admin.h"
+
+1575146140 c:\users\zezoa\desktop\new folder\new folder\admin.h
+	<iostream>
+	"User.h"
+
+1575146141 c:\users\zezoa\desktop\new folder\new folder\user.h
+	<iostream>
+	<iomanip>
+
+1575143254 source:c:\users\zezoa\desktop\new folder\new folder\cq.cpp
+	"CQ.h"
+
+1575146141 c:\users\zezoa\desktop\new folder\new folder\cq.h
+	"Question.h"
+	<iostream>
+	<iomanip>
+
+1575146140 c:\users\zezoa\desktop\new folder\new folder\question.h
+	<iostream>
+
+1575146141 source:c:\users\zezoa\desktop\new folder\new folder\main.cpp
+	<iostream>
+	"User.h"
+	"Player.h"
+	"Admin.h"
+	"Question.h"
+	"MCQ.h"
+	"TFQ.h"
+	"CQ.h"
+	"Quiz.h"
+	<cstring>
+	<vector>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+
+1575146140 c:\users\zezoa\desktop\new folder\new folder\player.h
+	"User.h"
+	"Quiz.h"
+	<vector>
+	<iostream>
+
+1575146140 c:\users\zezoa\desktop\new folder\new folder\quiz.h
+	"Question.h"
+	<iostream>
+
+1575146141 c:\users\zezoa\desktop\new folder\new folder\mcq.h
+	"Question.h"
+	<iostream>
+	<iomanip>
+
+1575146140 c:\users\zezoa\desktop\new folder\new folder\tfq.h
+	"Question.h"
+	<iostream>
+	<iomanip>
+
+1575143183 source:c:\users\zezoa\desktop\new folder\new folder\mcq.cpp
+	"MCQ.h"
+
+1575180828 source:c:\users\zezoa\desktop\new folder\new folder\player.cpp
+	"Player.h"
+
+1575146141 source:c:\users\zezoa\desktop\new folder\new folder\question.cpp
+	"Question.h"
+
+1575143275 source:c:\users\zezoa\desktop\new folder\new folder\quiz.cpp
+	"Quiz.h"
+
+1575143254 source:c:\users\zezoa\desktop\new folder\new folder\tfq.cpp
+	"TFQ.h"
+
+1575180827 source:c:\users\zezoa\desktop\new folder\new folder\user.cpp
+	"User.h"
+
+1575180828 source:c:\users\manaz\desktop\new folder\new folder\new folder\admin.cpp
+	"Admin.h"
+
+1575146140 c:\users\manaz\desktop\new folder\new folder\new folder\admin.h
+	<iostream>
+	"User.h"
+
+1575146141 c:\users\manaz\desktop\new folder\new folder\new folder\user.h
+	<iostream>
+	<iomanip>
+
+1575143254 source:c:\users\manaz\desktop\new folder\new folder\new folder\cq.cpp
+	"CQ.h"
+
+1575146141 c:\users\manaz\desktop\new folder\new folder\new folder\cq.h
+	"Question.h"
+	<iostream>
+	<iomanip>
+
+1575146140 c:\users\manaz\desktop\new folder\new folder\new folder\question.h
+	<iostream>
+
+1575150350 source:c:\users\manaz\desktop\new folder\new folder\new folder\main.cpp
+	<iostream>
+	"User.h"
+	"Player.h"
+	"Admin.h"
+	"Question.h"
+	"MCQ.h"
+	"TFQ.h"
+	"CQ.h"
+	"Quiz.h"
+	<cstring>
+	<vector>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+
+1575146140 c:\users\manaz\desktop\new folder\new folder\new folder\player.h
+	"User.h"
+	"Quiz.h"
+	<vector>
+	<iostream>
+
+1575146140 c:\users\manaz\desktop\new folder\new folder\new folder\quiz.h
+	"Question.h"
+	<iostream>
+
+1575146141 c:\users\manaz\desktop\new folder\new folder\new folder\mcq.h
+	"Question.h"
+	<iostream>
+	<iomanip>
+
+1575146140 c:\users\manaz\desktop\new folder\new folder\new folder\tfq.h
+	"Question.h"
+	<iostream>
+	<iomanip>
+
+1575143183 source:c:\users\manaz\desktop\new folder\new folder\new folder\mcq.cpp
+	"MCQ.h"
+
+1575150137 source:c:\users\manaz\desktop\new folder\new folder\new folder\player.cpp
+	"Player.h"
+
+1575146141 source:c:\users\manaz\desktop\new folder\new folder\new folder\question.cpp
+	"Question.h"
+
+1575143275 source:c:\users\manaz\desktop\new folder\new folder\new folder\quiz.cpp
+	"Quiz.h"
+
+1575143254 source:c:\users\manaz\desktop\new folder\new folder\new folder\tfq.cpp
+	"TFQ.h"
+
+1575180827 source:c:\users\manaz\desktop\new folder\new folder\new folder\user.cpp
+	"User.h"
+
+1575143254 source:c:\users\fci lab\desktop\new folder-1\new folder\new folder\new folder\cq.cpp
+	"CQ.h"
+
+1575146141 c:\users\fci lab\desktop\new folder-1\new folder\new folder\new folder\cq.h
+	"Question.h"
+	<iostream>
+	<iomanip>
+
+1575146140 c:\users\fci lab\desktop\new folder-1\new folder\new folder\new folder\question.h
+	<iostream>
+
+1575143183 source:c:\users\fci lab\desktop\new folder-1\new folder\new folder\new folder\mcq.cpp
+	"MCQ.h"
+
+1575146141 c:\users\fci lab\desktop\new folder-1\new folder\new folder\new folder\mcq.h
+	"Question.h"
+	<iostream>
+	<iomanip>
+
+1575204818 source:c:\users\fci lab\desktop\new folder-1\new folder\new folder\new folder\player.cpp
+	"Player.h"
+
+1575146140 c:\users\fci lab\desktop\new folder-1\new folder\new folder\new folder\player.h
+	"User.h"
+	"Quiz.h"
+	<vector>
+	<iostream>
+
+1575146141 c:\users\fci lab\desktop\new folder-1\new folder\new folder\new folder\user.h
+	<iostream>
+	<iomanip>
+
+1575146140 c:\users\fci lab\desktop\new folder-1\new folder\new folder\new folder\quiz.h
+	"Question.h"
+	<iostream>
+
+1575146141 source:c:\users\fci lab\desktop\new folder-1\new folder\new folder\new folder\question.cpp
+	"Question.h"
+
+1575143275 source:c:\users\fci lab\desktop\new folder-1\new folder\new folder\new folder\quiz.cpp
+	"Quiz.h"
+
+1575143254 source:c:\users\fci lab\desktop\new folder-1\new folder\new folder\new folder\tfq.cpp
+	"TFQ.h"
+
+1575146140 c:\users\fci lab\desktop\new folder-1\new folder\new folder\new folder\tfq.h
+	"Question.h"
+	<iostream>
+	<iomanip>
+
+1575204818 source:c:\users\fci lab\desktop\new folder-1\new folder\new folder\new folder\admin.cpp
+	"Admin.h"
+
+1575146140 c:\users\fci lab\desktop\new folder-1\new folder\new folder\new folder\admin.h
+	<iostream>
+	"User.h"
+
+1575180827 source:c:\users\fci lab\desktop\new folder-1\new folder\new folder\new folder\user.cpp
+	"User.h"
+
+1575204637 source:c:\users\fci lab\desktop\new folder-1\new folder\new folder\new folder\main.cpp
+	<iostream>
+	"User.h"
+	"Player.h"
+	"Admin.h"
+	"Question.h"
+	"MCQ.h"
+	"TFQ.h"
+	"CQ.h"
+	"Quiz.h"
+	<cstring>
+	<vector>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+
+1575204818 source:c:\users\zezoa\desktop\20180111 && 20180121&&20180290\admin.cpp
+	"Admin.h"
+
+1575146140 c:\users\zezoa\desktop\20180111 && 20180121&&20180290\admin.h
+	<iostream>
+	"User.h"
+
+1575146141 c:\users\zezoa\desktop\20180111 && 20180121&&20180290\user.h
+	<iostream>
+	<iomanip>
+
+1575225090 source:c:\users\zezoa\desktop\20180111 && 20180121&&20180290\cq.cpp
+	"CQ.h"
+
+1575146141 c:\users\zezoa\desktop\20180111 && 20180121&&20180290\cq.h
+	"Question.h"
+	<iostream>
+	<iomanip>
+
+1575226658 c:\users\zezoa\desktop\20180111 && 20180121&&20180290\question.h
+	<iostream>
+
+1575226409 source:c:\users\zezoa\desktop\20180111 && 20180121&&20180290\mcq.cpp
+	"MCQ.h"
+
+1575226658 c:\users\zezoa\desktop\20180111 && 20180121&&20180290\mcq.h
+	"Question.h"
+	<iostream>
+	<iomanip>
+
+1575224048 source:c:\users\zezoa\desktop\20180111 && 20180121&&20180290\player.cpp
+	"Player.h"
+
+1575146140 c:\users\zezoa\desktop\20180111 && 20180121&&20180290\player.h
+	"User.h"
+	"Quiz.h"
+	<vector>
+	<iostream>
+
+1575146140 c:\users\zezoa\desktop\20180111 && 20180121&&20180290\quiz.h
+	"Question.h"
+	<iostream>
+
+1575223460 source:c:\users\zezoa\desktop\20180111 && 20180121&&20180290\question.cpp
+	"Question.h"
+
+1575143275 source:c:\users\zezoa\desktop\20180111 && 20180121&&20180290\quiz.cpp
+	"Quiz.h"
+
+1575225503 source:c:\users\zezoa\desktop\20180111 && 20180121&&20180290\tfq.cpp
+	"TFQ.h"
+
+1575146140 c:\users\zezoa\desktop\20180111 && 20180121&&20180290\tfq.h
+	"Question.h"
+	<iostream>
+	<iomanip>
+
+1575180827 source:c:\users\zezoa\desktop\20180111 && 20180121&&20180290\user.cpp
+	"User.h"
+
+1575220173 source:c:\users\zezoa\desktop\20180111 && 20180121&&20180290\main.cpp
+	<iostream>
+	"User.h"
+	"Player.h"
+	"Admin.h"
+	"Question.h"
+	"MCQ.h"
+	"TFQ.h"
+	"CQ.h"
+	"Quiz.h"
+	<cstring>
+	<vector>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+
