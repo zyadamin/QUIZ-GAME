@@ -1,5 +1,5 @@
 # QUIZ-GAME
-V2.0 should support multiple users. This means that, while the program is executing, the user can choose to switch his account and enter the username of a different user. Each user will have a different history that will be available when the user is logged in.
+ support multiple users. This means that, while the program is executing, the user can choose to switch his account and enter the username of a different user. Each user will have a different history that will be available when the user is logged in.
 • The new version will support two types of users: Admin and Player. The admin user will only be allowed to do administration tasks (i.e. access the administration menu) while the player will only be allowed to see his/her information as well as being able to start quizzes. The player will not have access to the administration menu unless he switches his account to an admin account. The admin will not be allowed to start a quiz unless he switches his account to a player account.
 • A login page, where the user enters his username and password. Based on the entered details, the user role will be identified, and a related main menu will be displayed.
 • A player ‘main menu page’ available for the ‘Player’ user.
